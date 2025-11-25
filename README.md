@@ -20,7 +20,7 @@ Repository ini berisi solusi teknis untuk studi kasus **Talent Match Intelligenc
     2.  Penjelasan logika SQL.
     3.  Desain konsep Dashboard AI.
 
-* **`dashboard.py`** *(Optional)*:
+* **`dashboard.py`**:
     Source code untuk prototipe dashboard interaktif menggunakan Streamlit.
 
 ## Methodology
